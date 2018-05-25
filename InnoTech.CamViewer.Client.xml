@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ClientConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Period>1</Period>
+  <ServerAddress>http://192.168.77.3/InnoWebAgent/Services/CamAgent.asmx</ServerAddress>
+  <CodecIndex xsi:nil="true" />
+</ClientConfig>
